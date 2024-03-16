@@ -3,8 +3,7 @@ A simple pokeapi project
 
 This minimalist pokedex was made with the intention of learining, therefore it will be full of bugs and it can absolutely be improved, feel free to sugest changes on how should I improve it.
 
-[![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)]([https://colab.research.google.com/github/ddPn08/automatic1111-colab/blob/main/automatic1111.ipynb](https://colab.research.google.com/drive/1MszkVifBm1FGDzoH0KnaiXKWFR4WPenF?usp=sharing))
-
+<a href="https://colab.research.google.com/github/NE0BIT/pokedex/blob/main/pokedex.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/><br><input type="button" value="Open in Colab" style="font-size:20px"></a>
 # How to use
 
 1. **Open in Colab**: Click on the 'Open in Colab' badge in the README file to open the notebook in Google Colab.
